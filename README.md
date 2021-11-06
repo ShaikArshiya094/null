@@ -1,1 +1,1 @@
-# null
+Online Crime Records Management” is a web-based application. This software provides facility for reporting online crimes, complaints, missing persons, show mostwanted person details mailing as well as chatting. Any Number of clients can connect to the server. Each user first makes their login to sever to show their availability. The server can be any Web Server. An SMTP Server must be maintained for temporary storage of emails and chat jar files for enable the chatting facilities
